@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-cd
- CD Player Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - cd
+
+CD Player Proxy SDK documentation
